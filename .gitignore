@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.swp
+*.suo
+*.userprefs
+*.ds_store
+*.vscode/
